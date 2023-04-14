@@ -1,2 +1,2 @@
-#reversi
+# reversi
 オセロ作った
